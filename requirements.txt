@@ -1,0 +1,9 @@
+Pillow
+scikit-image
+scipy
+tensorflow==2.0.0
+tqdm
+matplotlib
+numpy
+pydot
+graphviz
