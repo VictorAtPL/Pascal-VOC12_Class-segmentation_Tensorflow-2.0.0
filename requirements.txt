@@ -1,7 +1,7 @@
 Pillow
 scikit-image
 scipy
-tensorflow==2.5.2
+tensorflow==2.5.3
 tqdm
 matplotlib
 numpy
